@@ -1,0 +1,33 @@
+table caption input{
+
+    text-align: center;
+}
+
+table {
+
+    border: 0.1em solid black;
+    border-collapse: collapse;
+    width: 95px;
+    margin-left: 50%;
+    background-color: rgb(83, 79, 79);
+}
+
+table caption {
+
+    border: 0.2em solid black;
+
+    font-size: 1.2em;
+    
+    background-color: black;
+
+    text-align: center;
+}
+
+th, td {
+
+    border: 0.1em solid rgb(75, 76, 76);
+
+    padding: 0.5em;
+}
+
+
